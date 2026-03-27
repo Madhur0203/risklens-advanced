@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://risklens-advanced.netlify.app/"><b>🌐 Live Demo</b></a> •
+  <a href="https://superb-puffpuff-f16f70.netlify.app/"><b>🌐 Live Demo</b></a> •
   <a href="https://github.com/Madhur0203/risklens-advanced"><b>📦 Repository</b></a>
 </p>
 
@@ -95,7 +95,7 @@ E --> F[Dashboard & Insights]
 
 ## 🚀 Live Demo
 
-👉 [https://risklens-advanced.netlify.app/](https://risklens-advanced.netlify.app/)
+👉 [https://risklens-advanced.netlify.app/](https://superb-puffpuff-f16f70.netlify.app/)
 
 > Click **"Generate Demo Data"** to simulate 1200+ real-world cases.
 
