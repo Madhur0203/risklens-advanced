@@ -1,9 +1,3 @@
-Alright — now we’re making this **FAANG-level 🔥 (clean, sharp, recruiter-optimized, visually premium, ATS-friendly + GitHub trending style)**.
-
-This is not just a README — this is your **portfolio weapon**.
-
----
-
 # 🚀 RiskLens Advanced
 
 ### AI-Powered Risk Intelligence & Decision Analytics Platform
