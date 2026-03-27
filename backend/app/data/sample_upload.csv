@@ -1,0 +1,2 @@
+case_id,vendor,carrier,port,route,filing_status,notes,amount,quantity,delay_days,document_completeness,vendor_incident_rate,route_rarity,cost_spike,exception_count,label_escalated
+RL-DEMO-0001,RRK Trade Lines,Maersk,Newark,IN-US,Late,Late filing observed and invoice mismatch under review. Missing documents caused resubmission.,15200.5,320,3,74,0.42,0.31,0.22,2,1
